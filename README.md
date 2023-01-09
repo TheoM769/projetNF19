@@ -58,3 +58,9 @@ http://localhost:8080/wp-admin
 ```
 
 2. Entrer les identifiants (id : root, mot de passe: root) pour se connecter à l'interface de gestion wordpress
+
+## Arrêter l'infrastructure
+
+```bash
+docker compose down
+```
